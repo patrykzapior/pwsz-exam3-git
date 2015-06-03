@@ -1,4 +1,4 @@
-nodescribe('pingpong', function ()
+describe('pingpong', function ()
 {
     var pingpong = require('../app/pingpong.js');
 
