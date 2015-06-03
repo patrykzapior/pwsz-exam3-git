@@ -1,7 +1,6 @@
 {
     "name": "software-quality-and-testing-exam-git",
     "description": "Software Quality and Testing Exam on Git",
->>>>>>> Temporary merge branch 2
     "version": "0.0.1",
     "dependencies": {},
     "devDependencies": {
