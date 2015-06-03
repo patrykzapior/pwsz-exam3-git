@@ -1,6 +1,6 @@
 {
-    "name": "software-quality-and-testing-exam",
-    "description": "Software Quality and Testing Exam",
+    "name": "software-quality-and-testing-exam-git",
+    "description": "Software Quality and Testing Exam on Git",
     "version": "0.0.1",
     "dependencies": {},
     "devDependencies": {
